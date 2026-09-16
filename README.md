@@ -12,6 +12,21 @@ The **AI-Powered Product & Growth Assistant** is built to answer questions relat
 
 The application retrieves relevant information from a knowledge base and provides it as context to an AI model. The model then generates an answer based on the retrieved information.
 
+### Basic Workflow
+
+text
+User Question
+      ↓
+Query Processing
+      ↓
+Document / Knowledge Retrieval
+      ↓
+Relevant Context
+      ↓
+LLM / Generative AI Model
+      ↓
+AI-Generated Response
+
 ✨ Features
 🤖 AI-powered question answering
 
