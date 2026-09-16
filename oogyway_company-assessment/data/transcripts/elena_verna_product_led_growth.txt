@@ -1,0 +1,16 @@
+Title: Elena Verna on Product-Led Growth, Product-Led Sales, and Freemium Models
+Guest: Elena Verna
+Source: Lenny's Podcast — Episode 65
+
+Elena Verna (Growth Advisor to Miro, Amplitude, Dropbox, Netlify) shares insights on modern PLG strategies, monetization timing, and bridging product usage with enterprise sales.
+
+### What Product-Led Growth (PLG) Really Means
+PLG is an organizational strategy where product usage is the primary driver of customer acquisition, retention, and expansion.
+- **Freemium / Free Trial**: Give users immediate value without friction before asking for credit card information.
+- **Time-to-Value (TTV)**: Minimize the minutes it takes for a new sign-up to reach their first "Aha!" moment.
+
+### Product-Led Sales (PLS)
+Product-led growth does not replace enterprise sales; it fuels enterprise sales.
+1. Self-serve users sign up and use the product inside an organization.
+2. Product telemetry identifies "Product Qualified Leads" (PQLs)—teams with high active usage, team collaboration, and feature adoption.
+3. Account executives reach out to corporate leadership with usage evidence, transforming cold sales pitches into warm account expansions.

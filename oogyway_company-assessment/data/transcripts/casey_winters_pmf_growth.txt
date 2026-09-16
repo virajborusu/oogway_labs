@@ -1,0 +1,17 @@
+Title: Casey Winters on Product-Market Fit, Retention Loops, and SEO Strategy
+Guest: Casey Winters
+Source: Lenny's Podcast — Episode 42
+
+Casey Winters (former Chief Product Officer at Eventbrite, Growth Lead at Pinterest and Grubhub) breaks down how high-growth tech companies measure retention and build scalable acquisition engines.
+
+### Retention as the Foundation of Growth
+Most founders focus heavily on top-of-funnel acquisition, but acquisition without retention is a leaky bucket. Product-market fit is mathematically defined by your retention curve:
+1. Plot your active user retention over time (d1, d7, d30, m1, m6, m12).
+2. If the curve continuously trends downward toward zero, you do NOT have product-market fit.
+3. If the curve flattens out and stays horizontal (even at 20-30%), you have sustainable product-market fit for that user cohort.
+
+### Sustainable Growth Loops vs Growth Tactics
+Tactic-driven growth (like paid ad campaigns or temporary promo discounts) provides linear growth that degrades over time. Sustainable growth requires self-reinforcing loops:
+- **Viral Loops**: Existing users invite new users during their natural workflow (e.g. Figma sharing files, Eventbrite ticket invites).
+- **Content/SEO Loops**: Users or algorithms create search-indexable content that attracts organic Google traffic (e.g. Pinterest, Grubhub restaurant pages).
+- **Paid Loops**: High customer lifetime value (LTV) generates gross margin that pays for customer acquisition cost (CAC) within a reasonable payback period (< 12 months).

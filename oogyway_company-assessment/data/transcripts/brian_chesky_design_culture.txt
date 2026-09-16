@@ -1,0 +1,18 @@
+Title: Brian Chesky on Experience Design, Leadership, and Product Culture
+Guest: Brian Chesky
+Source: Lenny's Podcast — Episode 84
+
+In this conversation with Lenny Rachitsky, Brian Chesky (Co-founder and CEO of Airbnb) shares his unique product philosophy on experience design, founders staying in the details, and organizational leadership.
+
+### The 11-Star Experience Framework
+When we started Airbnb, we realized that standard 5-star customer service wasn't enough to build an iconic global brand. So we ran an exercise: what would a 6-star, 7-star, or 11-star experience look like?
+- 5-Star: You arrive at your Airbnb, the key works, the house is clean, and everything is as pictured.
+- 6-Star: You open the door, there's a handwritten note and a bottle of wine.
+- 7-Star: A host picks you up at the airport in a Tesla, knows your favorite music, and takes you to dinner.
+- 10-Star: You land, there are 5,000 screaming fans waiting for you, and a parade down Main Street.
+- 11-Star: Elon Musk meets you at the landing pad, puts you in a rocket, and takes you to Mars.
+
+Obviously, an 11-star experience is impossible to scale, but pushing your imagination to extreme extremes helps product managers discover the magical moments that drive word-of-mouth growth.
+
+### Founder-Led Product Management
+Brian advocates for executives and product leaders remaining deeply immersed in product details rather than delegating away responsibility. When founders step back and become pure administrators, products lose their soul, cohesion, and craftsmanship. Every product feature should feel like it was crafted by a single unified mind.
